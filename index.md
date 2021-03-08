@@ -1,29 +1,15 @@
-## Welcome to GitHub Pages
+## lol you thought I would actually stop selling your data because you requested it?
 
-You can use the [editor on GitHub](https://github.com/HolySuicidalTurkey/memeingforenglishclass/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mark Zuckerberg will bring the end of days. Lizzard Suckerberg man.
 
-### Markdown
+[https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5](url) and ![https://i1.wp.com/officejockeys.com/wp-content/uploads/2018/10/img_7422.jpg?fit=688%2C423&ssl=1](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Hope you liked the paper.
 
-```markdown
-Syntax highlighted code block
+###[Feed, by M.T. Anderson](https://www.amazon.com/Feed-M-T-Anderson/dp/0763662623)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Powered by [Github](https://github.com/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
