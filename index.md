@@ -5,11 +5,11 @@
 
 ![https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5](https://github.com/HolySuicidalTurkey/memeingforenglishclass/blob/gh-pages/img_7422.jpg)
 
-##Hope you liked the paper.
+## Hope you liked the paper.
 
-###[Feed, by M.T. Anderson](https://www.amazon.com/Feed-M-T-Anderson/dp/0763662623)
+### [Feed, by M.T. Anderson](https://www.amazon.com/Feed-M-T-Anderson/dp/0763662623)
 
-Powered by [Github](https://github.com/)
+Powered by **[Github](https://github.com/)**
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
